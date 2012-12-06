@@ -1,0 +1,12 @@
+{
+  "name": "primeSieve",
+  "version": "0.0.0",
+  "description": "Generates an array - the value at the index of a particular number will be 1 if prime, 0 if not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "",
+  "author": "Todd Branchflower",
+  "license": "BSD"
+}
